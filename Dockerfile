@@ -21,3 +21,5 @@ EXPOSE 3000
 
 # Start the app (dev mode)
 CMD ["npm", "start"]
+
+#check
